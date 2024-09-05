@@ -1,0 +1,27 @@
+In Teams, you can find me using my email n.ussyukin@kbtu.kz
+Team code for PP1 Fall 2024: r85dg71
+I am available there from 6:00 till 20:00 on workdays. 
+For urgent questions, send me an e-mail or call me in Teams
+
+During the course, we will use VSCode as our editor.
+And C++ will be the programming language.
+To use C++, you need to install a C++ compiler
+- clang for MacOS
+- mingw for Windows
+
+For Mac users: open the "Terminal" app, type "g++" and press enter.
+If the compiler is not already, you will prompted to install it. 
+Choose the option to install it, wait for the installation to finish.
+After that, you're good to go!
+
+For Windows users: 
+- open cmd or powershell, type "g++ -v" without quotes, press enter
+- if you get an error, proceed forward, otherwise you have mingw (g++) installed
+- open the link http://grav.ejudge.kz/distr
+- download the "mingw-vscode" archive
+- unpack it wherever you prefer
+- move the unpacked "mingw-vscode" folder into the root of the C:\ drive
+- run the file called "run" (or "run.bat")
+- if prompted, choose "Run anyway"
+- reopen (or open) cmd or powershell, type "g++ -v" without quotes, press enter
+If you have no errors at this point, you're good to go!
