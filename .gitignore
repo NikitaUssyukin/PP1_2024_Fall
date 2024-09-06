@@ -1,0 +1,13 @@
+# Executables
+*.exe
+*.out
+*.app
+
+# Vscode files
+**/.vscode
+
+# MacOS files
+**/.DS_Store
+
+# Directories
+/Others

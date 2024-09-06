@@ -1,15 +1,15 @@
 ## Lectures
-- G1 — Tue 1pm - 3pm
-- G2 — Thu 10am - 12pm
-- G3 — Thu 12pm - 2pm
+- G1 — Tue 1pm - 3pm room 404
+- G2 — Thu 10am - 12pm room 404
+- G3 — Thu 12pm - 2pm room 404
 
 ## Practices
-- G1 — Tue 3pm - 5pm
-- G2 — Thu 3pm - 5pm
-- G3 — Thu 5pm - 7pm
-- G4 — Fri 1pm - 3pm
-- G5 — Fri 3pm - 5pm
-- G6 — Sat 9am - 11am
-- G7 — Sat 11am - 1pm
-- G8 — Sat 2pm - 4pm
-- G9 — Sat 4pm - 6pm
+- G1 — Tue 3pm - 5pm room 455
+- G2 — Thu 3pm - 5pm room 365
+- G3 — Thu 5pm - 7pm room 365
+- G4 — Fri 1pm - 3pm room 280
+- G5 — Fri 3pm - 5pm room 280
+- G6 — Sat 9am - 11am room 258
+- G7 — Sat 11am - 1pm room 258
+- G8 — Sat 2pm - 4pm room 372
+- G9 — Sat 4pm - 6pm room 372
