@@ -7,9 +7,9 @@
 - G1 — Tue 3pm - 5pm room 455
 - G2 — Thu 3pm - 5pm room 365
 - G3 — Thu 5pm - 7pm room 365
-- G4 — Fri 1pm - 3pm room 280
-- G5 — Fri 3pm - 5pm room 280
-- G6 — Sat 9am - 11am room 258
-- G7 — Sat 11am - 1pm room 258
+- G4 — Fri 1pm - 3pm room 269
+- G5 — Fri 3pm - 5pm room 269
+- G6 — Sat 9am - 11am room 269
+- G7 — Sat 11am - 1pm room 269
 - G8 — Sat 2pm - 4pm room 372
 - G9 — Sat 4pm - 6pm room 372
