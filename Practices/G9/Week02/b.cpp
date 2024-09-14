@@ -14,7 +14,7 @@ int main() {
 
     while(n > 0) {
         cout << n % 2; // outputs bits in reverse order
-        result += (n % 2) * pow(2, exponent++);
+        result += !(n % 2) * pow(2, exponent++);
         n /= 2; // n = n / 2
     }
 
