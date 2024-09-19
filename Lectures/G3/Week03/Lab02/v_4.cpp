@@ -9,7 +9,7 @@ int main() {
 
     cin >> n;
 
-    cout << 511 ^ n << endl;
+    cout << ~n & 511 << endl; // inverting and using a mask of 9 bits
 
     return 0;
 }
