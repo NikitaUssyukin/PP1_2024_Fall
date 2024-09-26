@@ -13,14 +13,14 @@ int main() {
         a[i] = i + 1;
     }
 
-    // address of the first element in the array
+    // address of the elements of the array
     for(int i = 0; i < n; ++i) {
         cout << a + i << " ";
     }
     cout << endl;
     
 
-    // value of the first element in the array
+    // value of the elements of the array
     for(int i = 0; i < n; ++i) {
         cout << *(a + i) << " "; // *(a + i) is the same as a[i]
     }
