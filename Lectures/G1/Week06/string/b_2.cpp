@@ -3,8 +3,6 @@
 using namespace std;
 
 int main() {
-
-    string greeting = "Hello";
     
     // string errors:
     // string s1 = 'A'; // declaring a new string and giving it a char as a value
