@@ -90,40 +90,13 @@ int main() {
         if(digit == '1') {
             cout << "ONE";
         } 
-        else if(temp == "TWO") {
-            digit = '2';
+        else if(digit == '2') {
+            cout << "TWO";
         }
-        else if(temp == "THR") {
-            digit = '3';
-        }
-        else if(temp == "FOU") {
-            digit = '4';
-        }
-        else if(temp == "FIV") {
-            digit = '5';
-        }
-        else if(temp == "SIX") {
-            digit = '6';
-        }
-        else if(temp == "SEV") {
-            digit = '7';
-        }
-        else if(temp == "EIG") {
-            digit = '8';
-        }
-        else if(temp == "NIN") {
-            digit = '9';
-        }
-        else if(temp == "ZER") {
-            digit = '0';
-        }
-        if(inputSwitch) {
-            num1 += digit;
-        }
-        else {
-            num2 += digit;
-        }   
-
+        // .
+        // .
+        // .
+        // etc
     }
 
     
