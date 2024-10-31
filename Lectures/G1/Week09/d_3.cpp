@@ -24,7 +24,7 @@ int main() {
     v.push_back(1);
     v.push_back(3);
 
-    sort(v.begin(), v.end(), cmp);
+    sort(v.begin(), v.end(), cmp1);
 
     for(int i = 0; i < v.size(); ++i) {
         cout << v[i] << ' ';
