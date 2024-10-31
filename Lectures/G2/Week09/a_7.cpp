@@ -9,7 +9,6 @@ int main() {
 
     int x;
     while(cin >> x) {
-        if(x == 0) break;
         v.push_back(x);
     }
         

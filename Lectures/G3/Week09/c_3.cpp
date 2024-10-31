@@ -8,7 +8,7 @@ int main() {
     int n, m;
     cin >> n >> m;
 
-    vector<vector<int> > v2(n); // empty 2D vector
+    vector<vector<int> > v2(n); // 2D vector with n empty rows
 
 
     for(int i = 0; i < v2.size(); ++i) {  
