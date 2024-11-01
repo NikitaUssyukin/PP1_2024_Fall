@@ -21,8 +21,6 @@ int main() {
         cout << v[i].first << ' ' << v[i].second << endl;
     }
 
-    
-
     return 0;
 }
 
