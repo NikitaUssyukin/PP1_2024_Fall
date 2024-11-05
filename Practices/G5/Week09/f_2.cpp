@@ -15,7 +15,6 @@ int main() {
         ++m[s];
     }
 
-    set<int> s;
     map<string, int>::iterator it;
     for(it = m.begin(); it != m.end(); it++) {
         cout << it->first << " " << it->second << endl;
