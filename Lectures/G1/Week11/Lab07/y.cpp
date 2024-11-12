@@ -5,7 +5,7 @@ using namespace std;
 
 int main() {
 
-    freopen("input.txt", "r", stdin);
+    // freopen("y_input.txt", "r", stdin);
 
     map<string, string> m;
 
