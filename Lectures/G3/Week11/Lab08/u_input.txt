@@ -1,0 +1,10 @@
+9
+add 4318
+getmax
+getcur
+add 17976
+add 20495
+getmax
+delete
+getcur
+getmax
