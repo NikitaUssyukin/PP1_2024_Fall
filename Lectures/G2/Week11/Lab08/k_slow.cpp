@@ -5,6 +5,8 @@ using namespace std;
 
 int main() {
 
+    freopen("k_input1.txt", "r", stdin);
+
     int n;
     cin >> n;
 
