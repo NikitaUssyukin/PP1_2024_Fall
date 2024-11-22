@@ -43,7 +43,7 @@ int main() {
     int bugsLeft = 0;
 
     map<string, int>::iterator it;
-    for(it = bugs.begin(); it != bugs.end(); ++it) {
+    for(it = bugs.begin(); it != m.end(); ++it) {
         bugsLeft += it->second;
     }
 
