@@ -9,7 +9,7 @@ int main() {
     cin >> n;
 
     vector<int> v(n); // vector with n elements
-    // indexes: [0, n)
+    // indexes: [0, n) 
 
     for(int i = 0; i < v.size(); ++i) {
         cin >> v[i];
