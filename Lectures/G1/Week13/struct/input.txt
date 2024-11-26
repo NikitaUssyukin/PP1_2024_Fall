@@ -1,0 +1,6 @@
+5
+Milk 100 3
+Yabloko 5000 1
+Snickers 450 1
+Dell_Laptop 1000000 1
+Cheese 3000 100
