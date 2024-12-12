@@ -7,7 +7,7 @@ int main() {
     int seconds;
     cin >> seconds;
 
-    int h = seconds / 3600;
+    int h = seconds / 3600 % 24;
     int m = seconds / 60 % 60;
     int s = seconds % 60;
 
